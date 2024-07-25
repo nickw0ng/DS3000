@@ -1,0 +1,103 @@
+Timestamp,Fake Student ID,What year/class are you in?,Have you done a co-op during your time at Northeastern?,"How would you rate your experience programming on a scale of 0-10, where 0 is (No Experience) and 10 is (Proficient in at least one language)",Which language(s) have you had at least some experience programming in? (Choose all that apply),"What is your age (in months)? For example, if you turned 20 in July of this year, you would be (20*12 + 2) = 242 months old.",What is your ideal starting salary (in thousands of USD)? (Try to be reasonable!)
+09-09-22 15:37,7289,Sophomore,No,9,"Python, Other(s)",234,60
+09-09-22 16:01,36,Sophomore,No,7,Python,233,100
+09-09-22 14:19,2676,Junior,Yes,7,"Python, Java, C/C++",252,70
+09-09-22 16:07,3848,Junior,No,7,"Python, Java",243,50
+09-09-22 16:06,2755,Sophomore,No,5,"Python, R",231,90
+09-09-22 15:27,3724,Junior,No,8,"Python, Java",245,70
+09-09-22 14:16,9619,Senior,Yes,7,Python,258,90
+09-09-22 16:06,9935,Fifth year,Yes,3,"Java, Other(s)",264,
+09-09-22 16:07,234,Sophomore,No,10,"Java, R",232,58
+09-09-22 14:13,8019,Junior,Yes,10,"Python, Java, C/C++, R",240,100
+09-09-22 14:15,4933,Fifth year,Yes,10,"Python, Java, C/C++",276,120
+09-09-22 16:07,5374,Sophomore,No,5,Python,230,80
+09-09-22 14:14,2172,Senior,Yes,6,Python,257,
+09-09-22 13:58,2327,Senior,Yes,8,"Python, Java, C/C++, R",265.25,
+09-09-22 14:13,6158,Sophomore,No,6,"Python, Other(s)",239,85
+09-09-22 15:35,7589,Sophomore,No,7,"Python, Java, R",232,90
+09-09-22 14:13,8757,Junior,Yes,10,"Python, Java",,200
+09-09-22 14:13,1919,Junior,No,10,"Python, Java, C/C++",256,100
+09-09-22 15:55,6823,Sophomore,No,10,"Python, Java",231,100
+09-09-22 14:14,9386,Junior,Yes,10,"Python, Java, Other(s)",247,100
+09-09-22 16:08,1339,Sophomore,No,7,"Java, C/C++, R, Other(s)",232,80
+09-09-22 15:37,8824,Senior,Yes,3,Python,265,
+09-09-22 14:06,3821,Senior,Yes,4,Python,281,90
+09-09-22 15:45,9808,Sophomore,No,6,"Python, Java",238,82.5
+09-09-22 15:41,5896,Junior,Yes,8,"Python, Java, C/C++",254,65
+8/30/2022 13:49:42,716,Faculty,No,8,"Python, Java, R, SAS",381,100
+09-09-22 14:15,1571,Fifth year,Yes,4,Java,266,60
+09-09-22 13:39,9278,Sophomore,No,6,Java,230,100
+09-09-22 14:14,7623,Junior,Yes,4,"Python, R",241,40
+09-09-22 14:16,4993,Sophomore,No,7,Java,235,80
+09-09-22 14:17,4620,Fifth year,Yes,9,"Python, Java",270,80
+09-09-22 13:45,5363,Sophomore,No,8,"Python, Java, R",229,75
+09-09-22 16:07,5907,Senior,Yes,7,"Python, Java, R",264,100
+09-09-22 14:13,1935,Sophomore,No,8,"Python, Java",235,
+09-09-22 16:07,3925,Senior,Yes,9,Python,251,80
+09-09-22 14:13,9947,Senior,Yes,8,"Python, Other(s)",264,
+09-09-22 16:05,6413,Sophomore,No,6,Java,232,70
+09-09-22 16:06,6547,Sophomore,No,9,"Python, Java",234,90
+09-09-22 16:06,2036,Sophomore,No,8,"Python, Java, R",232,80
+09-09-22 14:15,4733,Sophomore,No,10,"Python, Java, C/C++",230,100
+09-09-22 16:04,4720,Sophomore,No,8,"Python, Java",232,165
+09-09-22 14:13,6961,Junior,Yes,5,Python,242,80
+09-09-22 17:47,7852,Sophomore,No,8,Python,231,100
+09-11-22 11:56,4603,Sophomore,No,7,"Python, Java",231,65
+09-09-22 14:16,6029,Senior,Yes,7,Python,264,100
+09-09-22 13:48,2469,Senior,Yes,5,Python,257,75
+09-09-22 16:06,1539,Sophomore,No,7,"Python, Java",226,90
+09-09-22 16:06,9689,Sophomore,No,10,"Python, Java, Other(s)",237,100
+09-09-22 15:43,1904,Sophomore,No,9,"Python, R",229,85
+09-09-22 14:14,1201,Junior,Yes,7,"Python, Java",245,170
+09-09-22 15:53,4492,Sophomore,No,8,"Python, Java",234,100
+09-09-22 16:07,2562,Sophomore,No,10,"Python, Java",233,80
+09-09-22 14:11,746,Senior,Yes,5,Python,273,72
+09-09-22 14:16,6590,Senior,No,5,"Python, C/C++",254,62.4
+09-09-22 15:33,6340,Sophomore,No,8,"Java, Other(s)",231,100
+09-09-22 15:38,4734,Sophomore,No,10,"Python, Java, Other(s)",230,500
+09-09-22 14:04,4806,Senior,Yes,8,"Python, Java, Other(s)",250,100
+09-09-22 15:43,5002,Senior,Yes,10,"Python, Java",248,90
+09-09-22 16:06,9947,Junior,Yes,10,"Python, Java, C/C++",246,100
+09-09-22 14:15,5545,Junior,Yes,5,"Python, Java",247,85
+09-09-22 14:15,9152,Sophomore,No,6,"Python, Other(s)",238,75
+09-09-22 15:34,4013,Sophomore,No,7,"Java, Other(s)",231,150
+09-09-22 16:03,2315,Senior,Yes,9,"Python, Java",259,70
+09-09-22 14:13,4482,Sophomore,No,7,"Java, Other(s)",237,75
+09-09-22 14:14,5197,Junior,Yes,9,"Python, Java, C/C++",245,100
+09-09-22 15:32,1655,Sophomore,No,6,Java,240,80
+09-09-22 15:43,5170,Sophomore,No,10,"Python, Java, C/C++, Other(s)",231,100
+09-09-22 16:09,2012,Sophomore,No,8,Python,235,64
+09-09-22 14:16,8808,Junior,Yes,9,"Python, Java",243,100
+09-09-22 14:18,9401,Senior,Yes,10,"Python, Java, C/C++",255,100
+09-09-22 14:14,9475,Sophomore,No,10,"Python, Java, R",237,91
+09-09-22 14:13,995,Sophomore,No,9,Java,230,80
+09-09-22 13:42,5330,Sophomore,No,9,"Python, Java, C/C++",235,120
+09-09-22 14:15,8193,Senior,Yes,10,Python,253,
+09-09-22 14:14,2113,Fifth year,Yes,6,"Java, C/C++, R",,
+09-09-22 16:06,4959,Senior,Yes,10,"Python, Java, R",251,95
+09-09-22 14:20,3331,Senior,Yes,8,"Python, Java",251,90
+09-09-22 16:07,1678,Senior,Yes,10,"Python, Java, C/C++",263,90
+09-09-22 16:05,8508,Sophomore,No,9,"Python, Java, Other(s)",236,100
+09-09-22 15:37,4263,Sophomore,No,7,Java,227,
+09-09-22 14:16,6939,Senior,Yes,9,Python,263,80
+09-09-22 15:38,5489,Sophomore,No,9,"Python, Java, Other(s)",245,100
+09-09-22 16:06,3287,Sophomore,No,10,"Python, Java, C/C++",233,95
+09-09-22 14:20,5192,Senior,Yes,7,Python,272,100
+09-09-22 14:17,8694,Sophomore,No,7,Python,237,185
+09-09-22 16:07,6930,Sophomore,No,6,"Python, Java, Other(s)",242,55
+09-09-22 16:06,2251,Sophomore,No,6,Java,236,100
+09-09-22 13:43,7482,Sophomore,No,10,"Python, Java, C/C++",233,70
+09-09-22 15:54,5892,Sophomore,No,6,"Python, Java, C/C++",237,100
+09-09-22 16:07,5410,Sophomore,No,6,Java,234,100
+09-09-22 16:04,5237,Sophomore,No,7,"Python, Java, Other(s)",233,80
+09-10-22 16:30,2075,Senior,Yes,5,Python,275,90
+09-09-22 15:50,4835,Junior,Yes,8,"Python, R, Other(s)",262,100
+09-09-22 16:06,6735,Sophomore,No,7,Java,230,73
+09-09-22 14:13,4978,Senior,Yes,10,"Python, Java, C/C++",264,100
+09-09-22 13:46,2416,Junior,Yes,2,Java,246,100
+09-09-22 13:43,6938,Sophomore,No,10,"Python, Java, R",238,75
+09-12-22 16:02,7062,Sophomore,No,5,Python,228,70
+9/15/2022 10:36:54,3456,Sophomore,No,10,"Java, Other(s)",19,100
+9/15/2022 14:12:59,6633,Sophomore,No,9,Java,236,70
+9/16/2022 13:32:34,5093,Sophomore,No,3,"Python, Java",236,100
+9/16/2022 13:38:59,3251,Sophomore,No,7,Java,228,
