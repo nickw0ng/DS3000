@@ -1,0 +1,103 @@
+Timestamp,Fake Student ID,What year/class are you in?,Have you done a co-op during your time at Northeastern?,"How would you rate your experience programming on a scale of 0-10, where 0 is (No Experience) and 10 is (Proficient in at least one language)",Which language(s) have you had at least some experience programming in? (Choose all that apply),"What is your age (in months)? For example, if you turned 20 in July of this year, you would be (20*12 + 2) = 242 months old.",What is your ideal starting salary (in thousands of USD)? (Try to be reasonable!)
+09-09-22 15:37,pseudo_0,Sophomore,No,9,"Python, Other(s)",234.0,60.0
+09-09-22 16:01,pseudo_1,Sophomore,No,7,Python,233.0,100.0
+09-09-22 14:19,pseudo_2,Junior,Yes,7,"Python, Java, C/C++",252.0,70.0
+09-09-22 16:07,pseudo_3,Junior,No,7,"Python, Java",243.0,50.0
+09-09-22 16:06,pseudo_4,Sophomore,No,5,"Python, R",231.0,90.0
+09-09-22 15:27,pseudo_5,Junior,No,8,"Python, Java",245.0,70.0
+09-09-22 14:16,pseudo_6,Senior,Yes,7,Python,258.0,90.0
+09-09-22 16:06,pseudo_7,Fifth year,Yes,3,"Java, Other(s)",264.0,
+09-09-22 16:07,pseudo_8,Sophomore,No,10,"Java, R",232.0,58.0
+09-09-22 14:13,pseudo_9,Junior,Yes,10,"Python, Java, C/C++, R",240.0,100.0
+09-09-22 14:15,pseudo_10,Fifth year,Yes,10,"Python, Java, C/C++",276.0,120.0
+09-09-22 16:07,pseudo_11,Sophomore,No,5,Python,230.0,80.0
+09-09-22 14:14,pseudo_12,Senior,Yes,6,Python,257.0,
+09-09-22 13:58,pseudo_13,Senior,Yes,8,"Python, Java, C/C++, R",265.25,
+09-09-22 14:13,pseudo_14,Sophomore,No,6,"Python, Other(s)",239.0,85.0
+09-09-22 15:35,pseudo_15,Sophomore,No,7,"Python, Java, R",232.0,90.0
+09-09-22 14:13,pseudo_16,Junior,Yes,10,"Python, Java",,200.0
+09-09-22 14:13,pseudo_17,Junior,No,10,"Python, Java, C/C++",256.0,100.0
+09-09-22 15:55,pseudo_18,Sophomore,No,10,"Python, Java",231.0,100.0
+09-09-22 14:14,pseudo_19,Junior,Yes,10,"Python, Java, Other(s)",247.0,100.0
+09-09-22 16:08,pseudo_20,Sophomore,No,7,"Java, C/C++, R, Other(s)",232.0,80.0
+09-09-22 15:37,pseudo_21,Senior,Yes,3,Python,265.0,
+09-09-22 14:06,pseudo_22,Senior,Yes,4,Python,281.0,90.0
+09-09-22 15:45,pseudo_23,Sophomore,No,6,"Python, Java",238.0,82.5
+09-09-22 15:41,pseudo_24,Junior,Yes,8,"Python, Java, C/C++",254.0,65.0
+8/30/2022 13:49:42,pseudo_25,Faculty,No,8,"Python, Java, R, SAS",381.0,100.0
+09-09-22 14:15,pseudo_26,Fifth year,Yes,4,Java,266.0,60.0
+09-09-22 13:39,pseudo_27,Sophomore,No,6,Java,230.0,100.0
+09-09-22 14:14,pseudo_28,Junior,Yes,4,"Python, R",241.0,40.0
+09-09-22 14:16,pseudo_29,Sophomore,No,7,Java,235.0,80.0
+09-09-22 14:17,pseudo_30,Fifth year,Yes,9,"Python, Java",270.0,80.0
+09-09-22 13:45,pseudo_31,Sophomore,No,8,"Python, Java, R",229.0,75.0
+09-09-22 16:07,pseudo_32,Senior,Yes,7,"Python, Java, R",264.0,100.0
+09-09-22 14:13,pseudo_33,Sophomore,No,8,"Python, Java",235.0,
+09-09-22 16:07,pseudo_34,Senior,Yes,9,Python,251.0,80.0
+09-09-22 14:13,pseudo_35,Senior,Yes,8,"Python, Other(s)",264.0,
+09-09-22 16:05,pseudo_36,Sophomore,No,6,Java,232.0,70.0
+09-09-22 16:06,pseudo_37,Sophomore,No,9,"Python, Java",234.0,90.0
+09-09-22 16:06,pseudo_38,Sophomore,No,8,"Python, Java, R",232.0,80.0
+09-09-22 14:15,pseudo_39,Sophomore,No,10,"Python, Java, C/C++",230.0,100.0
+09-09-22 16:04,pseudo_40,Sophomore,No,8,"Python, Java",232.0,165.0
+09-09-22 14:13,pseudo_41,Junior,Yes,5,Python,242.0,80.0
+09-09-22 17:47,pseudo_42,Sophomore,No,8,Python,231.0,100.0
+09-11-22 11:56,pseudo_43,Sophomore,No,7,"Python, Java",231.0,65.0
+09-09-22 14:16,pseudo_44,Senior,Yes,7,Python,264.0,100.0
+09-09-22 13:48,pseudo_45,Senior,Yes,5,Python,257.0,75.0
+09-09-22 16:06,pseudo_46,Sophomore,No,7,"Python, Java",226.0,90.0
+09-09-22 16:06,pseudo_47,Sophomore,No,10,"Python, Java, Other(s)",237.0,100.0
+09-09-22 15:43,pseudo_48,Sophomore,No,9,"Python, R",229.0,85.0
+09-09-22 14:14,pseudo_49,Junior,Yes,7,"Python, Java",245.0,170.0
+09-09-22 15:53,pseudo_50,Sophomore,No,8,"Python, Java",234.0,100.0
+09-09-22 16:07,pseudo_51,Sophomore,No,10,"Python, Java",233.0,80.0
+09-09-22 14:11,pseudo_52,Senior,Yes,5,Python,273.0,72.0
+09-09-22 14:16,pseudo_53,Senior,No,5,"Python, C/C++",254.0,62.4
+09-09-22 15:33,pseudo_54,Sophomore,No,8,"Java, Other(s)",231.0,100.0
+09-09-22 15:38,pseudo_55,Sophomore,No,10,"Python, Java, Other(s)",230.0,500.0
+09-09-22 14:04,pseudo_56,Senior,Yes,8,"Python, Java, Other(s)",250.0,100.0
+09-09-22 15:43,pseudo_57,Senior,Yes,10,"Python, Java",248.0,90.0
+09-09-22 16:06,pseudo_35,Junior,Yes,10,"Python, Java, C/C++",246.0,100.0
+09-09-22 14:15,pseudo_58,Junior,Yes,5,"Python, Java",247.0,85.0
+09-09-22 14:15,pseudo_59,Sophomore,No,6,"Python, Other(s)",238.0,75.0
+09-09-22 15:34,pseudo_60,Sophomore,No,7,"Java, Other(s)",231.0,150.0
+09-09-22 16:03,pseudo_61,Senior,Yes,9,"Python, Java",259.0,70.0
+09-09-22 14:13,pseudo_62,Sophomore,No,7,"Java, Other(s)",237.0,75.0
+09-09-22 14:14,pseudo_63,Junior,Yes,9,"Python, Java, C/C++",245.0,100.0
+09-09-22 15:32,pseudo_64,Sophomore,No,6,Java,240.0,80.0
+09-09-22 15:43,pseudo_65,Sophomore,No,10,"Python, Java, C/C++, Other(s)",231.0,100.0
+09-09-22 16:09,pseudo_66,Sophomore,No,8,Python,235.0,64.0
+09-09-22 14:16,pseudo_67,Junior,Yes,9,"Python, Java",243.0,100.0
+09-09-22 14:18,pseudo_68,Senior,Yes,10,"Python, Java, C/C++",255.0,100.0
+09-09-22 14:14,pseudo_69,Sophomore,No,10,"Python, Java, R",237.0,91.0
+09-09-22 14:13,pseudo_70,Sophomore,No,9,Java,230.0,80.0
+09-09-22 13:42,pseudo_71,Sophomore,No,9,"Python, Java, C/C++",235.0,120.0
+09-09-22 14:15,pseudo_72,Senior,Yes,10,Python,253.0,
+09-09-22 14:14,pseudo_73,Fifth year,Yes,6,"Java, C/C++, R",,
+09-09-22 16:06,pseudo_74,Senior,Yes,10,"Python, Java, R",251.0,95.0
+09-09-22 14:20,pseudo_75,Senior,Yes,8,"Python, Java",251.0,90.0
+09-09-22 16:07,pseudo_76,Senior,Yes,10,"Python, Java, C/C++",263.0,90.0
+09-09-22 16:05,pseudo_77,Sophomore,No,9,"Python, Java, Other(s)",236.0,100.0
+09-09-22 15:37,pseudo_78,Sophomore,No,7,Java,227.0,
+09-09-22 14:16,pseudo_79,Senior,Yes,9,Python,263.0,80.0
+09-09-22 15:38,pseudo_80,Sophomore,No,9,"Python, Java, Other(s)",245.0,100.0
+09-09-22 16:06,pseudo_81,Sophomore,No,10,"Python, Java, C/C++",233.0,95.0
+09-09-22 14:20,pseudo_82,Senior,Yes,7,Python,272.0,100.0
+09-09-22 14:17,pseudo_83,Sophomore,No,7,Python,237.0,185.0
+09-09-22 16:07,pseudo_84,Sophomore,No,6,"Python, Java, Other(s)",242.0,55.0
+09-09-22 16:06,pseudo_85,Sophomore,No,6,Java,236.0,100.0
+09-09-22 13:43,pseudo_86,Sophomore,No,10,"Python, Java, C/C++",233.0,70.0
+09-09-22 15:54,pseudo_87,Sophomore,No,6,"Python, Java, C/C++",237.0,100.0
+09-09-22 16:07,pseudo_88,Sophomore,No,6,Java,234.0,100.0
+09-09-22 16:04,pseudo_89,Sophomore,No,7,"Python, Java, Other(s)",233.0,80.0
+09-10-22 16:30,pseudo_90,Senior,Yes,5,Python,275.0,90.0
+09-09-22 15:50,pseudo_91,Junior,Yes,8,"Python, R, Other(s)",262.0,100.0
+09-09-22 16:06,pseudo_92,Sophomore,No,7,Java,230.0,73.0
+09-09-22 14:13,pseudo_93,Senior,Yes,10,"Python, Java, C/C++",264.0,100.0
+09-09-22 13:46,pseudo_94,Junior,Yes,2,Java,246.0,100.0
+09-09-22 13:43,pseudo_95,Sophomore,No,10,"Python, Java, R",238.0,75.0
+09-12-22 16:02,pseudo_96,Sophomore,No,5,Python,228.0,70.0
+9/15/2022 10:36:54,pseudo_97,Sophomore,No,10,"Java, Other(s)",19.0,100.0
+9/15/2022 14:12:59,pseudo_98,Sophomore,No,9,Java,236.0,70.0
+9/16/2022 13:32:34,pseudo_99,Sophomore,No,3,"Python, Java",236.0,100.0
+9/16/2022 13:38:59,pseudo_100,Sophomore,No,7,Java,228.0,
