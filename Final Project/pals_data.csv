@@ -1,0 +1,165 @@
+,name,rarity,rarity level,elements,work types,hp,defense,price
+0,Anubis #100,Epic,10,['earth'],"['Handiwork 4', 'Mining 3', 'Transporting 2']",120,100,4960
+1,Arsox #42,Common,4,['fire'],"['Deforesting 1', 'Kindling 2']",85,95,3520
+2,Astegon #98,Epic,9,"['dragon', 'dark']","['Handiwork 1', 'Mining 4', 'Oil Extracting 3']",100,125,8200
+3,Azurobe #82,Rare,7,"['water', 'dragon']",['Watering 3'],110,100,5600
+4,Beakon #73,Rare,6,['electricity'],"['Gathering 1', 'Generating Electricity 2', 'Transporting 3']",105,80,7490
+5,Beegarde #50,Common,4,['leaf'],"['Gathering 1', 'Deforesting 1', 'Handiwork 1', 'Farming 1', 'Medicine Production 1', 'Planting 1', 'Transporting 2']",80,90,1880
+6,Bellanoir #112,Legendary,20,['dark'],"['Handiwork 2', 'Medicine Production 4', 'Transporting 2']",120,100,10030
+7,Bellanoir Libero #112,Legendary,20,['dark'],"['Handiwork 2', 'Medicine Production 4', 'Transporting 2']",120,100,10030
+8,Blazamut #96,Epic,9,['fire'],"['Kindling 3', 'Mining 4']",100,120,10520
+9,Blazamut Ryu #96,Epic,10,"['dragon', 'fire']","['Kindling 3', 'Mining 4']",105,125,10520
+10,Blazehowl #84,Rare,7,['fire'],"['Deforesting 2', 'Kindling 3']",105,80,4040
+11,Blazehowl Noct #84,Epic,8,"['fire', 'dark']","['Deforesting 2', 'Kindling 3']",105,80,4360
+12,Bristla #30,Common,1,['leaf'],"['Gathering 1', 'Handiwork 1', 'Medicine Production 2', 'Planting 1', 'Transporting 1']",80,80,1140
+13,Broncherry #86,Rare,7,['leaf'],['Planting 3'],120,100,2920
+14,Broncherry Aqua #86,Epic,8,"['leaf', 'water']",['Watering 3'],120,100,3110
+15,Bushi #72,Rare,7,['fire'],"['Gathering 1', 'Deforesting 3', 'Kindling 2', 'Handiwork 1', 'Transporting 2']",80,80,4520
+16,Bushi Noct #72,Rare,7,"['fire', 'dark']","['Gathering 1', 'Deforesting 3', 'Kindling 2', 'Handiwork 1', 'Transporting 2']",80,80,4520
+17,Caprity #35,Common,3,['leaf'],"['Farming 1', 'Planting 2']",100,90,2510
+18,Cattiva #2,Common,1,['normal'],"['Gathering 1', 'Handiwork 1', 'Mining 1', 'Transporting 1']",70,70,1000
+19,Cawgnito #44,Common,3,['dark'],['Deforesting 1'],75,80,1840
+20,Celaray #25,Common,3,['water'],"['Transporting 1', 'Watering 1']",80,80,2860
+21,Chikipi #3,Common,1,['normal'],"['Gathering 1', 'Farming 1']",60,60,1000
+22,Chillet #55,Common,4,"['ice', 'dragon']","['Gathering 1', 'Cooling 1']",90,80,3450
+23,Chillet Ignis #55,Rare,5,"['fire', 'dragon']","['Gathering 1', 'Kindling 2']",90,80,4450
+24,Cinnamoth #41,Common,4,['leaf'],"['Medicine Production 1', 'Planting 2']",70,80,5700
+25,Cremis #18,Common,1,['normal'],"['Gathering 1', 'Farming 1']",70,75,1420
+26,Croajiro #114,Common,4,['water'],"['Gathering 1', 'Handiwork 1', 'Transporting 1', 'Watering 1']",80,85,2040
+27,Cryolinx #83,Rare,7,['ice'],"['Cooling 3', 'Deforesting 2', 'Handiwork 1']",100,110,8440
+28,Daedream #19,Common,1,['dark'],"['Gathering 1', 'Handiwork 1', 'Transporting 1']",70,60,1330
+29,Dazemu #123,Rare,5,['earth'],['Gathering 2'],95,80,2610
+30,Dazzi #62,Common,2,['electricity'],"['Generating Electricity 1', 'Handiwork 1', 'Transporting 1']",70,70,1390
+31,Depresso #17,Common,1,['dark'],"['Handiwork 1', 'Mining 1', 'Transporting 1']",70,70,1050
+32,Digtoise #67,Rare,5,['earth'],['Mining 3'],80,120,2980
+33,Dinossom #64,Rare,6,"['leaf', 'dragon']","['Deforesting 2', 'Planting 2']",110,90,3240
+34,Dinossom Lux #64,Rare,7,"['electricity', 'dragon']","['Deforesting 2', 'Generating Electricity 2']",110,90,3380
+35,Direhowl #26,Common,2,['normal'],['Gathering 1'],80,75,1920
+36,Dogen #122,Rare,6,['normal'],"['Gathering 2', 'Deforesting 2', 'Handiwork 3', 'Medicine Production 1', 'Transporting 2']",90,100,4440
+37,Dumud #43,Common,4,['earth'],"['Mining 2', 'Farming 1', 'Transporting 1', 'Watering 1']",100,95,4690
+38,Eikthyrdeer #37,Common,4,['normal'],['Deforesting 2'],95,80,2620
+39,Eikthyrdeer Terra #37,Rare,6,['earth'],['Deforesting 2'],95,80,2680
+40,Elizabee #51,Epic,8,['leaf'],"['Gathering 2', 'Deforesting 1', 'Handiwork 2', 'Medicine Production 2', 'Planting 2']",90,100,6830
+41,Elphidran #80,Rare,7,['dragon'],['Deforesting 2'],110,90,5230
+42,Elphidran Aqua #80,Epic,8,"['dragon', 'water']","['Deforesting 2', 'Watering 3']",115,95,5320
+43,Faleris #105,Epic,9,['fire'],"['Kindling 3', 'Transporting 3']",100,110,6720
+44,Felbat #94,Rare,6,['dark'],['Medicine Production 3'],100,110,2100
+45,Fenglope #93,Common,3,['normal'],['Deforesting 2'],110,90,2250
+46,Flambelle #70,Common,1,['fire'],"['Kindling 1', 'Handiwork 1', 'Farming 1', 'Transporting 1']",60,80,2500
+47,Flopie #28,Common,1,['leaf'],"['Gathering 1', 'Handiwork 1', 'Medicine Production 1', 'Planting 1', 'Transporting 1']",75,70,1220
+48,Foxcicle #57,Rare,5,['ice'],['Cooling 2'],90,105,3730
+49,Foxparks #5,Common,1,['fire'],['Kindling 1'],65,70,1040
+50,Frostallion #110,Legendary,20,['ice'],['Cooling 4'],140,120,8440
+51,Frostallion Noct #110,Legendary,20,['dark'],['Gathering 4'],140,135,8560
+52,Fuack #6,Common,1,['water'],"['Handiwork 1', 'Transporting 1', 'Watering 1']",60,60,1120
+53,Fuddler #22,Common,1,['earth'],"['Handiwork 1', 'Mining 1', 'Transporting 1']",65,50,1360
+54,Galeclaw #47,Common,2,['normal'],['Gathering 2'],75,60,2010
+55,Gobfin #31,Common,2,['water'],"['Handiwork 1', 'Transporting 1', 'Watering 2']",90,75,1840
+56,Gobfin Ignis #31,Common,3,['fire'],"['Kindling 2', 'Handiwork 1', 'Transporting 1']",90,75,1800
+57,Gorirat #49,Rare,5,['normal'],"['Deforesting 2', 'Handiwork 1', 'Transporting 3']",90,90,2010
+58,Gorirat Terra #49,Rare,5,['earth'],"['Handiwork 1', 'Mining 2', 'Transporting 3']",90,90,4020
+59,Grintale #52,Rare,6,['normal'],['Gathering 2'],110,80,5510
+60,Grizzbolt #103,Epic,8,['electricity'],"['Deforesting 2', 'Generating Electricity 3', 'Handiwork 2', 'Transporting 3']",105,100,7720
+61,Gumoss #13,Common,1,"['leaf', 'earth']",['Planting 1'],70,70,1310
+62,Hangyu #32,Common,1,['earth'],"['Gathering 1', 'Handiwork 1', 'Transporting 2']",80,70,1020
+63,Hangyu Cryst #32,Common,2,['ice'],"['Gathering 1', 'Cooling 1', 'Handiwork 1', 'Transporting 2']",80,70,1020
+64,Helzephyr #97,Rare,7,['dark'],['Transporting 3'],100,100,7840
+65,Helzephyr Lux #97,Epic,8,"['dark', 'electricity']","['Generating Electricity 3', 'Transporting 3']",105,100,8840
+66,Hoocrates #15,Common,1,['dark'],['Gathering 1'],70,80,1050
+67,Incineram #40,Common,4,"['fire', 'dark']","['Kindling 1', 'Handiwork 2', 'Mining 1', 'Transporting 2']",95,85,4780
+68,Incineram Noct #40,Rare,5,['dark'],"['Handiwork 2', 'Mining 1', 'Transporting 2']",95,85,4870
+69,Jetragon #111,Legendary,20,['dragon'],"['Gathering 3', 'Oil Extracting 3']",110,110,8680
+70,Jolthog #12,Common,1,['electricity'],['Generating Electricity 1'],70,70,1060
+71,Jolthog Cryst #12,Common,2,['ice'],['Cooling 1'],70,80,1070
+72,Jormuntide #101,Epic,8,"['dragon', 'water']",['Watering 4'],130,100,9320
+73,Jormuntide Ignis #101,Epic,9,"['dragon', 'fire']",['Kindling 4'],130,100,9500
+74,Katress #75,Rare,6,['dark'],"['Handiwork 2', 'Medicine Production 2', 'Transporting 2']",90,90,4120
+75,Katress Ignis #75,Rare,6,"['dark', 'fire']","['Kindling 2', 'Handiwork 2', 'Medicine Production 2', 'Transporting 2']",95,90,4120
+76,Kelpsea #81,Common,1,['water'],"['Farming 1', 'Watering 1']",70,70,1260
+77,Kelpsea Ignis #81,Common,2,['fire'],"['Kindling 1', 'Farming 1']",70,70,1240
+78,Kikit #117,Common,4,['earth'],['Mining 1'],75,90,2800
+79,Killamari #23,Common,1,['dark'],"['Gathering 1', 'Transporting 2']",60,70,1200
+80,Kingpaca #89,Epic,8,['normal'],['Gathering 1'],120,90,5800
+81,Kingpaca Cryst #89,Epic,9,['ice'],"['Gathering 1', 'Cooling 3']",120,90,6100
+82,Kitsun #61,Rare,6,['fire'],['Kindling 2'],100,100,3170
+83,Knocklem #120,Epic,9,['earth'],"['Gathering 3', 'Mining 3', 'Transporting 4']",105,135,10380
+84,Lamball #1,Common,1,['normal'],"['Handiwork 1', 'Farming 1', 'Transporting 1']",70,70,1000
+85,Leezpunk #45,Common,2,['dark'],"['Gathering 1', 'Handiwork 1', 'Transporting 1']",80,50,1720
+86,Leezpunk Ignis #45,Common,3,['fire'],"['Gathering 1', 'Kindling 1', 'Handiwork 1', 'Transporting 1']",80,50,1640
+87,Lifmunk #4,Common,1,['leaf'],"['Gathering 1', 'Deforesting 1', 'Handiwork 1', 'Medicine Production 1', 'Planting 1']",75,70,1010
+88,Loupmoon #46,Common,3,['dark'],['Handiwork 2'],80,80,2400
+89,Lovander #69,Rare,5,['normal'],"['Handiwork 2', 'Mining 1', 'Medicine Production 2', 'Transporting 2']",120,70,2450
+90,Lullu #115,Common,4,['leaf'],"['Gathering 1', 'Handiwork 2', 'Medicine Production 2', 'Planting 2']",90,80,3420
+91,Lunaris #63,Rare,6,['normal'],"['Gathering 1', 'Handiwork 3', 'Transporting 1']",90,90,1760
+92,Lyleen #104,Epic,9,['leaf'],"['Gathering 2', 'Handiwork 3', 'Medicine Production 3', 'Planting 4']",110,105,7160
+93,Lyleen Noct #104,Epic,10,['dark'],"['Gathering 2', 'Handiwork 3', 'Medicine Production 3']",110,115,7610
+94,Mammorest #90,Epic,8,['leaf'],"['Deforesting 2', 'Mining 2', 'Planting 2']",150,90,9450
+95,Mammorest Cryst #90,Epic,9,['ice'],"['Cooling 2', 'Deforesting 2', 'Mining 2']",150,90,9580
+96,Maraith #66,Rare,6,['dark'],"['Gathering 2', 'Mining 1']",75,80,1570
+97,Mau #24,Common,1,['dark'],['Farming 1'],70,70,1000
+98,Mau Cryst #24,Common,2,['ice'],"['Cooling 1', 'Farming 1']",70,70,1010
+99,Melpaca #36,Common,3,['normal'],['Farming 1'],90,90,2740
+100,Menasting #99,Epic,9,"['dark', 'earth']","['Deforesting 2', 'Mining 3']",100,130,7050
+101,Menasting Terra #99,Epic,10,['earth'],"['Deforesting 2', 'Mining 3']",100,130,8050
+102,Mimog #124,Rare,7,['normal'],['Gathering 1'],60,130,6150
+103,Mossanda #33,Rare,6,['leaf'],"['Deforesting 2', 'Handiwork 2', 'Planting 2', 'Transporting 3']",100,90,6200
+104,Mossanda Lux #33,Rare,7,['electricity'],"['Deforesting 2', 'Generating Electricity 2', 'Handiwork 2', 'Transporting 3']",100,100,6610
+105,Mozzarina #29,Common,2,['normal'],['Farming 1'],90,80,2620
+106,Necromus #109,Legendary,20,['dark'],"['Deforesting 2', 'Mining 2']",130,120,8930
+107,Nitewing #38,Common,3,['normal'],['Gathering 2'],100,80,6300
+108,Nox #21,Rare,6,['dark'],['Gathering 1'],75,70,1480
+109,Orserk #106,Epic,9,"['dragon', 'electricity']","['Generating Electricity 4', 'Handiwork 2', 'Transporting 3']",100,100,8320
+110,Paladius #108,Legendary,20,['normal'],"['Deforesting 2', 'Mining 2']",130,145,8810
+111,Pengullet #10,Common,1,"['water', 'ice']","['Cooling 1', 'Handiwork 1', 'Transporting 1', 'Watering 1']",70,70,1080
+112,Penking #11,Rare,6,"['water', 'ice']","['Cooling 2', 'Handiwork 2', 'Mining 2', 'Transporting 2', 'Watering 2']",95,95,5410
+113,Petallia #87,Epic,8,['leaf'],"['Gathering 2', 'Handiwork 2', 'Medicine Production 2', 'Planting 3', 'Transporting 1']",100,100,3590
+114,Prixter #119,Rare,5,"['dark', 'earth']","['Gathering 1', 'Deforesting 3', 'Medicine Production 1']",90,90,3939
+115,Pyrin #58,Rare,6,['fire'],"['Deforesting 1', 'Kindling 2']",100,90,6720
+116,Pyrin Noct #58,Rare,7,"['fire', 'dark']","['Deforesting 1', 'Kindling 2']",100,90,7270
+117,Quivern #95,Rare,7,['dragon'],"['Gathering 2', 'Handiwork 1', 'Mining 2', 'Transporting 3']",105,100,6830
+118,Quivern Botan #95,Epic,8,"['dragon', 'leaf']","['Gathering 2', 'Handiwork 1', 'Mining 2', 'Planting 2', 'Transporting 3']",105,100,7830
+119,Ragnahawk #74,Rare,7,['fire'],"['Kindling 3', 'Transporting 3']",95,120,6720
+120,Rayhound #60,Rare,5,['electricity'],['Generating Electricity 2'],90,80,3880
+121,Reindrix #59,Common,4,['ice'],"['Cooling 2', 'Deforesting 2']",100,110,2800
+122,Relaxaurus #85,Epic,8,"['dragon', 'water']","['Transporting 1', 'Watering 2']",110,70,10240
+123,Relaxaurus Lux #85,Epic,9,"['dragon', 'electricity']","['Generating Electricity 3', 'Transporting 1']",110,75,10380
+124,Reptyro #88,Rare,6,"['fire', 'earth']","['Kindling 3', 'Mining 3']",110,120,6940
+125,Reptyro Cryst #88,Rare,7,"['ice', 'earth']","['Cooling 3', 'Mining 3']",110,130,7380
+126,Ribbuny #39,Common,1,['normal'],"['Gathering 1', 'Handiwork 1', 'Transporting 1']",75,70,1160
+127,Robinquill #48,Rare,5,['leaf'],"['Gathering 2', 'Deforesting 1', 'Handiwork 2', 'Medicine Production 1', 'Planting 1', 'Transporting 2']",90,80,2050
+128,Robinquill Terra #48,Rare,6,"['leaf', 'earth']","['Gathering 2', 'Deforesting 1', 'Handiwork 2', 'Medicine Production 1', 'Transporting 2']",90,80,2150
+129,Rooby #9,Common,2,['fire'],['Kindling 1'],75,75,2950
+130,Rushoar #20,Common,1,['earth'],['Mining 1'],80,70,1680
+131,Selyne #113,Epic,9,"['dark', 'normal']","['Handiwork 3', 'Medicine Production 3', 'Transporting 3']",130,110,9500
+132,Shadowbeak #107,Epic,10,['dark'],['Gathering 1'],120,140,9060
+133,Shroomer #116,Common,4,['leaf'],"['Gathering 2', 'Deforesting 2', 'Handiwork 1', 'Planting 2']",110,90,3660
+134,Shroomer Noct #116,Rare,5,"['leaf', 'dark']","['Gathering 2', 'Deforesting 2', 'Handiwork 1', 'Planting 2']",110,90,4240
+135,Sibelyx #79,Rare,7,['ice'],"['Cooling 2', 'Farming 1', 'Medicine Production 2']",110,100,5900
+136,Sootseer #118,Rare,7,"['dark', 'fire']","['Gathering 1', 'Kindling 3', 'Handiwork 2', 'Mining 2', 'Farming 1']",105,90,4890
+137,Sparkit #7,Common,1,['electricity'],"['Generating Electricity 1', 'Handiwork 1', 'Transporting 1']",60,70,1030
+138,Surfent #65,Common,4,['water'],['Watering 2'],90,80,5050
+139,Surfent Terra #65,Rare,5,['earth'],['Gathering 1'],90,100,5140
+140,Suzaku #102,Epic,8,['fire'],['Kindling 3'],120,105,9840
+141,Suzaku Aqua #102,Epic,9,['water'],['Watering 3'],125,105,10110
+142,Swee #53,Common,1,['ice'],"['Gathering 1', 'Cooling 1']",60,60,1180
+143,Sweepa #54,Rare,6,['ice'],"['Gathering 2', 'Cooling 2']",100,90,6400
+144,Tanzee #8,Common,1,['leaf'],"['Gathering 1', 'Deforesting 1', 'Handiwork 1', 'Planting 1', 'Transporting 1']",80,70,1280
+145,Teafant #16,Common,1,['water'],['Watering 1'],70,70,1000
+146,Tocotoco #27,Common,1,['normal'],['Gathering 1'],60,70,1090
+147,Tombat #68,Rare,5,['dark'],"['Gathering 2', 'Mining 2', 'Transporting 2']",95,80,3810
+148,Univolt #56,Rare,5,['electricity'],"['Deforesting 1', 'Generating Electricity 2']",80,105,4280
+149,Vaelet #78,Epic,8,['leaf'],"['Gathering 2', 'Handiwork 2', 'Medicine Production 3', 'Planting 2', 'Transporting 1']",100,120,1960
+150,Vanwyrm #71,Common,4,"['fire', 'dark']","['Kindling 1', 'Transporting 3']",90,90,4360
+151,Vanwyrm Cryst #71,Rare,5,"['ice', 'dark']","['Cooling 2', 'Transporting 3']",90,95,4610
+152,Verdash #77,Epic,8,['leaf'],"['Gathering 3', 'Deforesting 2', 'Handiwork 3', 'Planting 2', 'Transporting 2']",90,90,2200
+153,Vixy #14,Common,2,['normal'],"['Gathering 1', 'Farming 1']",70,70,1000
+154,Warsect  #92,Epic,8,"['earth', 'leaf']","['Deforesting 3', 'Handiwork 1', 'Planting 1', 'Transporting 3']",120,120,6830
+155,Warsect  Terra #92,Epic,9,['earth'],"['Handiwork 1', 'Mining 3', 'Transporting 3']",120,120,7830
+156,Wixen #76,Rare,6,['fire'],"['Kindling 2', 'Handiwork 3', 'Transporting 2']",90,80,3080
+157,Wixen Noct #76,Rare,6,"['fire', 'dark']","['Kindling 2', 'Handiwork 3', 'Transporting 2']",90,85,4080
+158,Woolipop #34,Common,3,['normal'],['Farming 1'],70,90,1450
+159,Wumpo #91,Rare,7,['ice'],"['Cooling 2', 'Deforesting 3', 'Handiwork 2', 'Transporting 4']",140,100,5900
+160,Wumpo Botan #91,Epic,8,['leaf'],"['Deforesting 3', 'Handiwork 2', 'Planting 1', 'Transporting 4']",140,110,5700
+161,Xenogard #126,Epic,9,['dragon'],['Mining 3'],110,130,8810
+162,Xenovader #125,Rare,7,['dark'],"['Deforesting 2', 'Transporting 2']",90,85,6750
+163,Yakumo #121,Common,4,['normal'],['Gathering 2'],85,85,3360
